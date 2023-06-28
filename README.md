@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Farizanak
-- 👀 I’m interested in Programming, Music, Poetry, etc :)
+- 👀 I’m interested in Programming, Music, Movie, Poetry, etc :)
 - 🌱 I’m currently learning Python!
 
 <!---
